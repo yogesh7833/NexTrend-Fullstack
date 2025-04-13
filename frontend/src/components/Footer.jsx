@@ -28,7 +28,7 @@ const Footer = () => {
         </div>
         <div>
             <hr/>
-            <p className='py-5 text-sm text-center'>Created with ❤️ by yogesh </p>
+            <p className='py-5 text-sm text-center'>Created with ❤️ </p>
         </div>
 
     </div>
